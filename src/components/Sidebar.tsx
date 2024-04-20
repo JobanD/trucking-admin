@@ -30,6 +30,9 @@ export default function Sidebar() {
             <Link href="/dashboard">Dashboard</Link>
             <Link href="/reports">Reports</Link>
             <Link href="/extra">Extra</Link>
+            <Link href="/extra">Profile</Link>
+            <Link href="/extra">Users</Link>
+            <Link href="/extra">Admin</Link>
           </div>
           <div>Settings</div>
           <UserButton afterSignOutUrl="/" />
